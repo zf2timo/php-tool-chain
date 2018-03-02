@@ -11,11 +11,13 @@ This document collects tools for php development
 - PHPMD
 - PHPMetrics
 - PHP Depend
+- PHPStan
 
 ## Testing
 - PHPUnit
 - Behat
 - PhpSpec
+- Infection PHP
 
 ## Packages
 - Composer
